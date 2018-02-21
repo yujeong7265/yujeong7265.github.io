@@ -1,0 +1,14 @@
+ #ft {
+            background-color: #282828;
+            width: 100%;
+            height: 25px;
+            bottom: 0%;
+        }
+
+        #ft p {
+            color:#b3b3b3; 
+            font-size: 10px;
+            text-align: center;
+            display: block;
+            bottom: 0;
+        }
